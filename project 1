@@ -21,6 +21,7 @@
         <a href="fruits.html" target="_blank">fruites</a>
         <a href="drinks.html" target="_blank">Drinks</a>
         <a href="foods.html" target="_blank">food</a>
+        <a href="ids.html">about us</a>
         <button class="btn"><a href="login.html"target= _blank>Login</a></button>
       </div>
     </div>
