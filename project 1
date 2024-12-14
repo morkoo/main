@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100;0,400;0,700;0,900;1,300&display=swap"
+      rel="stylesheet"
+    />
+    <title>Axora Market</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- head -->
+    <div class="header">
+      <h1 style="font-size: 35px; font-weight: bold; color: white">Axora</h1>
+      <div class="header-links a">
+        <a href="E:\Ahmed\project CS-101 HTML&CCS\Drinks\Axora.html">Home</a>
+        <a href="vegetables.html" target="_blank">Vegetables</a>
+        <a href="fruits.html" target="_blank">fruites</a>
+        <a href="drinks.html" target="_blank">Drinks</a>
+        <a href="foods.html" target="_blank">food</a>
+        <button class="btn"><a href="login.html"target= _blank>Login</a></button>
+      </div>
+    </div>
+    <!-- landing -->
+    <div class="landing-page">
+      <div class="landing-page-text">
+        <h2>Welcome to Axora Market,</h2>
+        <p>
+          Your one-stop destination for all your grocery needs! Whether you're
+          looking for the freshest produce, quality meats, delicious snacks, or
+          your favorite beverages, we've got you covered. At Axora, we pride
+          ourselves on offering the best products at unbeatable prices, paired
+          with a seamless shopping experience. Explore our wide range of items
+          and discover the joy of easy, convenient, and affordable shopping.
+          We're excited to serve you and make every visit to Axora a delightful
+          one!
+        </p>
+        <div class="landing-page-search">
+          <input placeholder="start typing..." />
+          <button  class="btn"> SEARCH</button>
+        </div>
+      </div>
+      <div>
+        <img src="images.html/home page photo.jpg" width="550px" />
+      </div>
+    </div>
+    
+ </body>
+</html>x    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
